@@ -43,7 +43,7 @@
   },
   "homepage": "https://github.com/@carboncollins/mobileconfig",
   "dependencies": {
-    "jsrsasign": "^8.0.3",
+    "jsrsasign": "^8.0.13",
     "plist": "^3.0.1",
     "uuid": "^3.1.0"
   },
